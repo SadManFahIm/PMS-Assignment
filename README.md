@@ -42,7 +42,7 @@ The Task Management System Application is designed to enhance productivity and o
 1. **Clone the Repository**:
 
    ```bash
-   git clone <my github project link>
+   git clone <https://github.com/SadManFahIm/PMS-Assignment>
    cd Angular-Task-Management-System
    ```
 
